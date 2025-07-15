@@ -14,5 +14,6 @@
   <img src="https://github.com/pen1gu.png" alt="pen1gu" width="50px">
   <img src="https://github.com/MyungJunKang.png" alt="MyungJunKang" width="50px">
   <img src="https://github.com/Gundue.png" alt="Gundue" width="50px">
+  <img src="https://github.com/tjrwns8024.png" alt="Gundue" width="50px">
   
 </p>
